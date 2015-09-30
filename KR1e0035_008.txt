@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏春秋集解
-#+DATE: 2015-09-23 09:39:32
-#+PROPERTY: JUAN 8
+#+DATE: 2015-08-24 22:13:44.219064
+#+PROPERTY: ID KR1e0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0035_WYG_008-1a>¶
 欽定四庫全書¶
 　春秋集解卷八¶
@@ -326,4 +328,3 @@
 　　書曰鄭棄其師君臣同責也¶
 　¶
 　春秋集觧卷八¶
-

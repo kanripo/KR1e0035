@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 呂氏春秋集解
-#+DATE: 2015-09-23 09:39:33
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:13:44.582777
+#+PROPERTY: ID KR1e0035
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1e0035_WYG_022-1a>¶
 欽定四庫全書¶
 　春秋集解卷二十二¶
@@ -524,4 +526,3 @@
 　　不通矣要在學者詳考而精擇可也¶
 　¶
 　春秋集解卷二十二¶
-
